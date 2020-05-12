@@ -1,0 +1,5 @@
+matplotlib
+pillow
+tqdm
+opencv_python
+facenet_pytorch
